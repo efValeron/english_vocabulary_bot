@@ -43,4 +43,4 @@ jspm_packages/
 .env.production.local
 .env.local
 
-/.idea
+/.idea/
